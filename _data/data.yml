@@ -197,5 +197,8 @@ pexperiences:
       details: |
         Mastered the start-to-finish toolchain necessary for modeling and creating 3D printed objects. Continously upgraded and expanded functionality of the system, adding such things as a web-based UI and integration with the home automation system. 
 
+header: >
+   <a href="abridged.pdf">Click Here for a 2-Page Downloadable PDF <i class="fas fa-file-pdf fa-2x"></i></a>
+
 footer: >
     Hosted on <a href="http://resume.dylanstraub.com.s3-website-us-east-1.amazonaws.com">S3</a>. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
