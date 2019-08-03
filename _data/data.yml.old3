@@ -18,7 +18,7 @@ sidebar:
     github: DSAutomations
 
     languages:
-      - idiom: 14+ Years' IT Experience
+      - idiom: 13+ Years' IT Experience
 
       - idiom: 6+ Years of Enterprise Support
 
@@ -49,32 +49,27 @@ sidebar:
       - item: stack-overflow
       - item: python
       - item: linux
-      - item: firefox
+      - item: chrome
       - item: github
       - item: raspberry-pi
-      - item: docker
       - item: reddit-alien
       - item: youtube
       - item: ubuntu
       - item: steam
       - item: playstation
+      - item: pied-piper-hat
       - item: rebel
 
 career-profile:
     title: Career Profile
     summary: |
-      I’m a dedicated and certified IT professional offering nearly 15 years’ experience supporting a wide variety of technologies. I’ve been consistently recognized as having top performance amongst my peers and I’m driven by a deep passion for understanding how everything works.
 
-      My technical curiosity drives me to constantly learn and explore new technologies. This had led to a broad basis of knowledge which I can apply to quickly and effectively solve complex technical problems using creative, outside-of-the-box, methodologies.
+      Dedicated IT professional offering nearly 14 years' experience supporting a wide variety of technologies. Consistently recognized for top performance among peers. Driven by a deep passion for learning how things work. 
 
-      After years of mastering IT support, I’m looking forward to moving into a new, challenging role. In the past few years, I’ve spent my free time teaching myself AWS, IT security, Linux administration, automation, scripting and many other skills. I’m looking forward to putting these skills to work for you!
-    
-# 
-# Dedicated IT professional offering nearly 14 years' experience supporting a wide variety of technologies. Consistently recognized for top performance among peers. Driven by a deep passion for learning how things work. 
-# 
-# I specialize in employing a multifaceted understanding of IT systems, along with proven research and troubleshooting skills to quickly and efficiently resolve issues within your IT infrastructure.
-# 
-# After years of mastering IT support, I've become a daily user of AWS in my personal life, and I'm excited by the future of cloud computing. I'm currently seeking opportunities to move into AWS or systems administration roles.
+      I specialize in employing a multifaceted understanding of IT systems, along with proven research and troubleshooting skills to quickly and efficiently resolve issues within your IT infrastructure.
+      
+      After years of mastering IT support, I've become a daily user of AWS in my personal life, and I'm excited by the future of cloud computing. I'm currently seeking opportunities to move into AWS or systems administration roles.
+
 #     I specialize in employing a multifaceted understanding of IT systems, along with proven research and troubleshooting skills to quickly and efficiently resolve issues within your IT infrastructure. 
 #     I'm a first generation digital native whose passion for technology has grown into a career in which I am privileged to work with cutting-edge technologies along with all the headaches and heartaches that accompany them. I'm here to help ease the pain and and innovate solutions to help your technology issues disappear.
 #     I'm always open to career growth opportunities, so please reach out of you have something you think I might be interested in.
@@ -94,21 +89,21 @@ education:
       time: 2004 
 
 experiences:
-    - role: Desktop Support Site Lead & <i>IT Concierge</i> support specialist
+    - role: Desktop Support Site Lead & IT Concierge
       time: Jan 2014 - Present
       company: CompuCom consultant @ Bristol-Myers Squibb - Tampa, FL
       details: |
         Provided first-contact and advanced support for a wide range of technology challenges as a newly established company site was<i> initialized and populated</i>. Managed thousands of PC deployments, repairs and refreshes while simultaneously catering to end-users technological needs with a friendly, face-to-face service model.
 
         Current responsibilities include:
-        - Managing the day-to-day IT support for a 600-person site
+        - Managing the day-to-day IT support for a 600 person site
         - Serving as first contact for any IT issues
         - Training and instructing technology users 
         - Managing asset inventory, deployment, and refresh
         - Supporting application, OS, and hardware issues on both end-user devices and on-site IT infrastructure
         - Serving as liaison to technical vendors supporting site issues
 
-    - role: <i>IT Concierge</i> support specialist
+    - role: IT Concierge
       time: Aug 2013 - Dec 2013
       company: CompuCom consultant @ Bristol-Myers Squibb - Lawrenceville, NJ
       details: |
@@ -163,16 +158,16 @@ pexperiences:
       time: 2016 - Present
       company: Ubiquiti EdgeRouter/Unifi - EdgeOS - Debian - Amazon Linux - OpenVPN - APCUPSD - MQTT  
       details: |
-        Used Ubiquiti network gear to mantain an OpenVPN tunnel from the home router to an EC2 VPN endpoint instance in a cost effective manner. This endpoint allows traffic to privately flow to a VPC which occupies a CIDR block adjacent to the local networks, which in turn, allows for access to private AWS services, such as RDS.
+        Use of professional grade networking equipment allows for an OpenVPN tunnel to be maintained from the router to an EC2 VPN endpoint instance at a low cost. The endpoint allows traffic to privately flow to a VPC which occupies a CIDR block adjacent to the local networks. This allows for access to private AWS services, such as RDS.
 
         - VLAN segregation between personal devices with sensitive data and IoT devices running software of potentially unknown origin
-        - SSH certificate-based authentication throughout, with password authentication disabled on all possible network components and servers
+        - SSH certificate-based authentication w/password authentication disabled on all possible network components and servers
         - On-premise ad-filtering DNS server resolving through Quad9
         - Power outage logging and alerting plus hours of internet/wifi up-time during outages 
 
     - role: Home Automation &amp; Security with Off-Premise Data Storage
       time: 2017 - Present
-      company: EC2 - RDS - AWS Lambda - Amazon Alexa - Raspberry Pi - Docker - Home Assistant - NGINX - MQTT - YAML - Amazon Alexa - Let's Encrypt - ESP8266
+      company: EC2 - RDS - AWS Lambda - Amazon Alexa - Raspberry Pi - Home Assistant - NGINX - MQTT - YAML - Amazon Alexa - Let's Encrypt - ESP8266
       details: |
         Leveraging an open source automation platform, engineered systems and automations for the sake of family security and convenience. Spec'd system components to maintain low cost and power usage. Custom components are designed around ARM-based microprocessors.  
 
@@ -184,18 +179,38 @@ pexperiences:
       time: 2018 - Present
       company: EC2 - EBS - Route53 - VPC - CloudWatch - AWS CLI -  Bash - Python3 - cron - Java - Ubuntu
       details: |
-        Responsible for hosting and administration of a heavily modded Minecraft server on EC2 spot instances. 
+        Responsible for hosting host and administration of a heavily modded Minecraft server on EC2 spot instances. 
 
         - Use of spot instances and daily scheduled downtime to reduce costs of server ownership
         - Custom scripting gracefully handles instance state transitions and spot interruptions
         - Dynamic DNS hostname via Route 53 integration
         - IAM roles and security groups configured for least privilege
+ 
 
-    - role: 3D Modeling &amp; Printing
-      time: 2016 - Present
-      company: Anet A8 - RepRap - Fusion 360 - OpenSCAD - Ultimaker Cura - Slic3r - gcode - Raspberry Pi - Octoprint - MQTT - Arduino - Marlin
-      details: |
-        Mastered the start-to-finish toolchain necessary for modeling and creating 3D printed objects. Continously upgraded and expanded functionality of the system, adding such things as a web-based UI and integration with the home automation system. 
+  
+
+
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Troubleshooting & Technical Problem Solving
+#        level: 98%
+#
+#      - name: <i>Google Fu</i>
+#        level: 98%
+#
+#      - name: TCP/IP Networking
+#        level: 98%
+#
+#      - name: Scripting & Automation
+#        level: 95%
+#
+#      - name: Linux Administration
+#        level: 85%
+#
+#      - name: Powershell
+#        level: 60%
 
 footer: >
     Hosted on <a href="http://resume.dylanstraub.com.s3-website-us-east-1.amazonaws.com">S3</a>. Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

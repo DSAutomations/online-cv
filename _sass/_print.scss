@@ -1,16 +1,33 @@
 @media print
    {
     @page {
-        size: A4;
+        size: letter;
     }
     body {
-       font-size: 12pt;
+       font-size: 11pt;
     }
 
     img.avatar {
+        display: none !important;
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
+
+    img {
+       filter: grayscale(1);
+       width: 0.5in;
+       height: auto;
+        -webkit-filter: greyscale(1);
+    }
+
+   #circle-icon {
+       display: none;
+    }
+
+   #icon {
+       color: black !important;
+    }
+
    .main-wrapper .time {
        float: right;
         color: black !important;
@@ -25,6 +42,10 @@
 
     .remove-container.container-block {
        display: none;
+    }
+    
+    a[href]:after {
+    content: none !important;
     }
 
     footer {

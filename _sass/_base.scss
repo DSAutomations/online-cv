@@ -79,6 +79,18 @@ p {
         border-radius: 100%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
+    .badge-img {
+        max-width:100px;
+        margin-bottom:1px;
+        margin-top:20px;
+        margin-right:7px
+    }
+    .badge-img2 {
+        max-width:100px;
+        margin-bottom:1px;
+        margin-top:8px;
+        margin-right:7px
+    }
     .contact-list {
         .fas, .fab {
             margin-right: 5px;
@@ -126,12 +138,18 @@ p {
             margin-bottom: 0px;
         }
     }
+    .fav-icon {
+        display: inline;
+    }
+
+    .icon-list {
+        text-align: center;
+    }
     .languages-container {
         .lang-desc {
             color: rgba(256, 256, 256, 0.6);
         }
     }
-
     .languages-list {
         margin-bottom: 0;
         li {
@@ -197,6 +215,15 @@ p {
         margin-bottom: 10px;
         color: $text-grey;
     }
+
+    .techno {
+        padding-left: 6.4em;
+        text-indent:-6.4em;
+        margin-top: 8px;
+        margin-bottom: 10px;
+        color: darkgrey;
+    }
+
 
     .project-title {
         font-size: 16px;

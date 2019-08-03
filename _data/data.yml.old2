@@ -1,0 +1,118 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+##
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Dylan Straub
+    tagline: Systems Administration<br>Cloud Computing<br>IT Problem Solver<br>Maker
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dyl@nstraub.com
+    website: DylanStraub.com #do not add http://
+    linkedin: DSAutomations
+    github: DSAutomations
+
+    languages:
+      - idiom: 12+ Years IT experience
+
+      - idiom: 6+ Years of Enterprise Support
+
+      - idiom: Numerous Certifications
+        level: AWS, CompTIA, Microsoft
+
+      - idiom: Leadership Experience
+        level: Youth and Professional
+
+    interests:
+      - item: Home Automation
+        link: https://www.home-assistant.io/
+
+      - item: 3D Printing
+        link: 
+
+      - item: SciFi Novels
+        link: https://www.goodreads.com/review/list/82936022-dylan?utf8=✓&sort=date_added&order=a
+
+      - item: Multicopters
+        link:
+
+
+
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Hi! I'm a first generation digital native whose passion for technology has grown into a career in which I am privileged to work with cutting-edge technologies along with all the headaches and heartaches that accompany them. I'm here to help ease the pain and and innovate solutions to help your technology issues disappear.
+
+      I specialize in employing a multifaceted understanding of IT systems, along with proven research and troubleshooting skills to quickly and efficiently resolve issues within your IT infrastructure. I'm always open to career growth opportunities, so please reach out of you have something you think I might be interested in.
+
+education:
+    - degree: Computer Engineering Technology
+      university: South Florida State College
+      time: Suma Cum Laude<br>2004 - 2008
+      details: |
+
+
+experiences:
+    - role: Desktop Support Site Lead & IT Concierge
+      time: 2014 - Present
+      company: Bristol-Myers Squibb - Consultant - Tampa FL
+      details: |
+        Provided support for a wide range of technology challenges as a newly established company site was initialized and populated. During this time, managed the flow of hundreds of PC deployments, repairs and retrievals while simultaneously catering to end-users technological needs with a friendly face-to-face service model that aims to leave the end-user completely satisfied.
+
+        Current responsibilities include managing the day-to-day IT support for a 600 person site, often serving as first contact for urgent issues; serving as liaison to technical vendors performing work at the site; management of the inventory cycle as PCs are deployed and retired; and supporting application, OS, and hardware issues related to the on-site IT infrastructure.
+
+    - role: IT Concierge
+      time: 2014
+      company: Bristol-Myers Squibb - Consultant - Lawrenceville NJ
+      details: |
+        Provided a white-glove all-inclusive technical support experience for employees visiting the company’s flagship IT Concierge location, ie. “Genius Bar”. By leveraging critical thinking skills and a big-picture understanding of the enterprise environment, clients were given an unsurpassed level of IT support.
+
+        Contributed to the early success of the project, leading to future expansion to other sites, including the second established IT Concierge in Tampa.
+
+    - role: Desktop Support Analyst
+      time: 2012 - 2014
+      company: Bristol-Myers Squibb - Consultant - Various locations, NJ
+      details: |
+        Provided timely support to end-users for tier-II IT issues requiring advanced troubleshooting and technical problem solving. Fulfilled various IT roles including break-fix and IMAC support. Performed laptop repairs, network troubleshooting and user instruction.
+
+        During down time, authored programmatic solutions to processes that were time consuming, tedious or error prone, to ultimately improve process reliability and eliminate error. Consistently met and exceeded SLA requirements for the contract.
+
+    - role: Freelance Technical Consultnat
+      time: 2009 - 2011
+      company: Dylan's Computer Services - Sebring, FL
+      details: |
+        Provided a variety of computer and electronics related services to residential and small business customers in central Florida. Services included PC repair &amp; troubleshooting, TCP/IP network installation &amp; troublshooting, software support &amp; consulting, website design &amp; hosting, and data recovery.
+
+        Additional electronics related services including installation of video surveillance and security systems, installation and configuration of high end home theatre systems, and board-level repair of miscellaneous electronics systems, eg. exercise equipment, arcade game consoles, etc.  
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Troubleshooting & Technical Problem Solving
+        level: 98%
+
+      - name: <i>Google Fu</i>
+        level: 98%
+
+      - name: TCP/IP Networking
+        level: 98%
+
+      - name: Scripting & Automation
+        level: 95%
+
+      - name: Linux Administration
+        level: 85%
+
+      - name: Powershell
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+

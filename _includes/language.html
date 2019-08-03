@@ -3,17 +3,31 @@
 <div class="languages-container container-block">
 
   <h2 class="container-block-title">
-    Languages
+    Qualifications
   </h2>
 
   <ul class="list-unstyled interests-list">
     {%for language in languages %}
     <li>
       {{ language.idiom }}
-      <span class="lang-desc">({{ language.level }})</span>
+     <br> <span class="lang-desc">{{ language.level }}</span>
     </li>
     {% endfor %}
   </ul>
-
+    <div class="badges">
+      <center>
+        <a style="text-decoration:none" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-06-07&ci=AWS00511696">
+          <img class="badge-img" src="/assets/images/SOAbadge.png" alt="AWS Certified Sysops Administrator" />
+          </a>
+	<a style="text-decoration:none" href="https://www.certmetrics.com/amazon/public/badge.aspx?i=6&t=c&d=2018-11-21&ci=AWS00511696">
+          <img class="badge-img" src="/assets/images/ANSBadge.png" alt="AWS Certified Advanced Networking - Specialty" />
+	  </a>
+<!--
+	<a style="text-decoration:none" href="https://www.youracclaim.com/badges/d1789e74-50ef-48d0-9c94-a3d33c436841/public_url">
+          <img class="badge-img2" src="/assets/images/CompTIA_A_2Bcet.png" alt="CompTIA A+ Certified" />
+	  </a>
+--!>
+      </center>
+    </div>
 </div><!--//interests-->
 {% endif %}

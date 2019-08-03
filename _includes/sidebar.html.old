@@ -16,22 +16,18 @@
     {% endif %}
 
   </div><!--//profile-container-->
-  
-  {% include language.html %} 
+
+  {% include contact.html %}
 
   {% if sidebar.education %}
     {% include education.html %}
   {% endif %}
 
-  {% include contact.html %}
+  {% include language.html %}
+  {% include interests.html %}
 
   {% if sidebar.about %}
     {% include about.html %}
   {% endif %}
-
-  {% if sidebar.favorites %}
-    {% include favs.html %}
-  {% endif %}
-
 
 </div><!--//sidebar-wrapper-->
