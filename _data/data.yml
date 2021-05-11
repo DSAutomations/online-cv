@@ -18,9 +18,9 @@ sidebar:
     github: DSAutomations
 
     languages:
-      - idiom: 14+ Years' IT Experience
+      - idiom: 15+ Years IT Experience
 
-      - idiom: 6+ Years of Enterprise Support
+      - idiom: 8+ Years of Enterprise Support
 
       - idiom: Numerous Certifications
         level: AWS, CompTIA, Microsoft
@@ -34,8 +34,8 @@ sidebar:
       - item: Home Automation
         link: https://www.home-assistant.io/
 
-      - item: 3D Printing
-        link: 
+      - item: 3D Printing &amp; Parametric Design
+        link:
 
       - item: SciFi Novels
         link: https://www.goodreads.com/review/list/82936022-dylan?utf8=✓&sort=date_added&order=a
@@ -63,19 +63,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a dedicated and certified IT professional offering nearly 15 years’ experience supporting a wide variety of technologies. I’ve been consistently recognized as having top performance amongst my peers and I’m driven by a deep passion for understanding how everything works.
+      I’m a dedicated and certified IT professional offering over 15 years of experience supporting a wide variety of technologies. I’ve been consistently recognized as having top performance amongst my peers and I’m driven by a deep passion for understanding how things work.
 
-      My technical curiosity drives me to constantly learn and explore new technologies. This had led to a broad basis of knowledge which I can apply to quickly and effectively solve complex technical problems using creative, outside-of-the-box, methodologies.
+      My technical curiosity drives me to constantly learn and explore new technologies. This had led to a broad basis of knowledge which I can apply to solve complex technical problems using creative, quick, effective, and outside-of-the-box methodologies.
 
-      After years of mastering IT support, I’m looking forward to moving into a new, challenging role. In the past few years, I’ve spent my free time teaching myself AWS, IT security, Linux administration, automation, scripting and many other skills. I’m looking forward to putting these skills to work for you!
-    
-# 
-# Dedicated IT professional offering nearly 14 years' experience supporting a wide variety of technologies. Consistently recognized for top performance among peers. Driven by a deep passion for learning how things work. 
-# 
+      After years of mastering IT support, I’m looking forward to moving into a new, challenging role. I’ve spent my free time teaching myself AWS, IT security, Linux administration, automation, scripting, and many other skills. I’m looking forward to putting these skills to work for you!
+
+
+#
+# Dedicated IT professional offering nearly 14 years' experience supporting a wide variety of technologies. Consistently recognized for top performance among peers. Driven by a deep passion for learning how things work.
+#
 # I specialize in employing a multifaceted understanding of IT systems, along with proven research and troubleshooting skills to quickly and efficiently resolve issues within your IT infrastructure.
-# 
+#
 # After years of mastering IT support, I've become a daily user of AWS in my personal life, and I'm excited by the future of cloud computing. I'm currently seeking opportunities to move into AWS or systems administration roles.
-#     I specialize in employing a multifaceted understanding of IT systems, along with proven research and troubleshooting skills to quickly and efficiently resolve issues within your IT infrastructure. 
+#     I specialize in employing a multifaceted understanding of IT systems, along with proven research and troubleshooting skills to quickly and efficiently resolve issues within your IT infrastructure.
 #     I'm a first generation digital native whose passion for technology has grown into a career in which I am privileged to work with cutting-edge technologies along with all the headaches and heartaches that accompany them. I'm here to help ease the pain and and innovate solutions to help your technology issues disappear.
 #     I'm always open to career growth opportunities, so please reach out of you have something you think I might be interested in.
 
@@ -91,32 +92,32 @@ education:
 
     - degree: Network Support Services<span style="font-weight:normal"><br>Vocational Certificate
       university: 960 course hours<br>South Florida State College
-      time: 2004 
+      time: 2004
 
 experiences:
-    - role: Desktop Support Site Lead & <i>IT Concierge</i> support specialist
-      time: Jan 2014 - Present
-      company: CompuCom consultant @ Bristol-Myers Squibb - Tampa, FL
+    - role: Senior Professional Field Engineer
+      time: Dec 2019 - Present
+      company: DXC Technology consultant @ Bristol-Myers Squibb - Tampa, FL
       details: |
-        Provided first-contact and advanced support for a wide range of technology challenges as a newly established company site was<i> initialized and populated</i>. Managed thousands of PC deployments, repairs and refreshes while simultaneously catering to end-users technological needs with a friendly, face-to-face service model.
+        Seamlessly transitioned and continued client support for all roles and responsibilities listed under <i>Desktop Support Site Lead & IT Concierge support specialist</i> below. Additionally, acted as SME and evangelist for the team’s transition to MS Teams. Currently administrate and support the site support team’s channel within the BMS instance of MS Teams.
 
-        Current responsibilities include:
+    - role: Desktop Support Site Lead &amp; <i>IT Concierge</i> support specialist
+      time: Aug 2013 - Dec 2019
+      company: CompuCom consultant @ Bristol-Myers Squibb - Tampa, FL / Lawrenceville, NJ
+      details: |
+        Contributed to the early success of BMS’s IT Concierge project in 2013 at the pilot location in Lawrenceville NJ, leading to future expansion to other sites, including the second established IT Concierge location in Tampa.
+
+        Provided first contact and advanced support for a wide range of technology challenges as the newly established Tampa site was initialized and populated in 2014. Managed thousands of PC deployments, repairs and refreshes while simultaneously catering to end-user’s technological needs with a friendly, face-to-face service model.
+
+        Leveraged critical thinking skills along with a deep understanding of the enterprise IT environment to provide clients with unsurpassed support for all business technology.
+
+        Responsibilities include:
         - Managing the day-to-day IT support for a 600-person site
-        - Serving as first contact for any IT issues
-        - Training and instructing technology users 
+        - Serving as first contact and often resolution for all IT issues
+        - Training and instructing technology users
         - Managing asset inventory, deployment, and refresh
-        - Supporting application, OS, and hardware issues on both end-user devices and on-site IT infrastructure
+        - Supporting any application, operating system, or hardware issues on both end-user devices and on-site IT infrastructure
         - Serving as liaison to technical vendors supporting site issues
-
-    - role: <i>IT Concierge</i> support specialist
-      time: Aug 2013 - Dec 2013
-      company: CompuCom consultant @ Bristol-Myers Squibb - Lawrenceville, NJ
-      details: |
-       Provided a white glove, all-inclusive support experience for employees visiting the company’s flagship walk-in support location,<i> i.e., "Genius Bar"</i>. 
-
-       Leveraged critical thinking skills along with a big-picture understanding of the enterprise IT environment to provide clients with an unsurpassed level of IT support for any and all job-related technology.
-
-        Contributed to the early success of the project, leading to future expansion to other sites, including the second established IT Concierge location in Tampa.
 
     - role: Desktop Support Analyst
       time: Mar 2012 - Aug 2013
@@ -124,7 +125,7 @@ experiences:
       details: |
         Provided timely support for tier-II IT issues requiring advanced troubleshooting and hands-on support. Fulfilled various IT roles including break-fix and IMAC support. Performed laptop repairs, network troubleshooting and user instruction. Consistently exceeded SLA requirements for the contract.
 
-        During down time, authored programmatic solutions to processes that were time-consuming, tedious or error prone. Improved process reliability and eliminated error throughout the team with these solutions. 
+        During down time, authored programmatic solutions to processes that were time-consuming, tedious or error prone. Improved process reliability and eliminated error throughout the team with these solutions.
 
     - role: Freelance Technical Consultant
       time: 2008 - 2012
@@ -132,13 +133,13 @@ experiences:
       details: |
         Provided a variety of computer and electronics related services to residential and small business customers in central Florida. Services included PC repair &amp; troubleshooting, TCP/IP network installation &amp; troubleshooting, software support &amp; consulting, website design &amp; hosting, and data recovery.
 
-        Additional electronics related services including installation of video surveillance and security systems, installation and configuration of home theater systems, and board-level repair of miscellaneous electronics systems, eg. exercise equipment, arcade game consoles, etc.  
+        Additional electronics related services including installation of video surveillance and security systems, installation and configuration of home theater systems, and board-level repair of miscellaneous electronics systems, eg. exercise equipment, arcade game consoles, etc.
 
     - role: Lab Assistant
       time: 2007 - 2009
       company: South Florida State College - Avon Park, FL
       details: |
-       Responsible for supporting classroom instructor by performing maintenance of classroom electronics learning systems, classroom PCs, network infrastructure and printers. Assisted other students with tutoring of electronics and electrical engineering concepts. Maintained a neat and orderly electronics lab. 
+       Responsible for supporting classroom instructor by performing maintenance of classroom electronics learning systems, classroom PCs, network infrastructure and printers. Assisted other students with tutoring of electronics and electrical engineering concepts. Maintained a neat and orderly electronics lab.
 
     - role: Help Desk Technician
       time: 2006 - 2007
@@ -150,7 +151,7 @@ experiences:
       time: 2006
       company: Command Post LAN Gaming Center - Sebring, FL
       details: |
-        Implemented technological systems for a start-up internet café. Designed and built an array of gaming PCs to a set budget, including Ethernet networking and power distribution. Integrated software applications for metering rentals and point of sale systems. Trained employees on the use of these applications. 
+        Implemented technological systems for a start-up internet café. Designed and built an array of gaming PCs to a set budget, including Ethernet networking and power distribution. Integrated software applications for metering rentals and point of sale systems. Trained employees on the use of these applications.
 
     - role: PC Repair Technician
       time: 2005 - 2006
@@ -161,30 +162,30 @@ experiences:
 pexperiences:
     - role: Ironclad Home Network with AWS Extensibility
       time: 2016 - Present
-      company: Ubiquiti EdgeRouter/Unifi - EdgeOS - Debian - Amazon Linux - OpenVPN - APCUPSD - MQTT  
+      company: Ubiquiti EdgeRouter/Unifi - EdgeOS - Debian - Amazon Linux - OpenVPN - APCUPSD - MQTT
       details: |
         Used Ubiquiti network gear to mantain an OpenVPN tunnel from the home router to an EC2 VPN endpoint instance in a cost effective manner. This endpoint allows traffic to privately flow to a VPC which occupies a CIDR block adjacent to the local networks, which in turn, allows for access to private AWS services, such as RDS.
 
         - VLAN segregation between personal devices with sensitive data and IoT devices running software of potentially unknown origin
         - SSH certificate-based authentication throughout, with password authentication disabled on all possible network components and servers
         - On-premise ad-filtering DNS server resolving through Quad9
-        - Power outage logging and alerting plus hours of internet/wifi up-time during outages 
+        - Power outage logging and alerting plus hours of internet/wifi up-time during outages
 
     - role: Home Automation &amp; Security with Off-Premise Data Storage
       time: 2017 - Present
       company: EC2 - RDS - AWS Lambda - Amazon Alexa - Raspberry Pi - Docker - Home Assistant - NGINX - MQTT - YAML - Amazon Alexa - Let's Encrypt - ESP8266
       details: |
-        Leveraging an open source automation platform, engineered systems and automations for the sake of family security and convenience. Spec'd system components to maintain low cost and power usage. Custom components are designed around ARM-based microprocessors.  
+        Leveraging an open source automation platform, engineered systems and automations for the sake of family security and convenience. Spec'd system components to maintain low cost and power usage. Custom components are designed around ARM-based microprocessors.
 
         - Vital home telemetry data transits a VPN tunnel to an AWS RDS instance for storage and further analysis
-        - Digital certificates maintained via LetsEncrypt and automatically renewed        
+        - Digital certificates maintained via LetsEncrypt and automatically renewed
         - "A+" SSL Labs rating on public facing web server
- 
+
     - role: Game Server on AWS
       time: 2018 - Present
       company: EC2 - EBS - Route53 - VPC - CloudWatch - AWS CLI -  Bash - Python3 - cron - Java - Ubuntu
       details: |
-        Responsible for hosting and administration of a heavily modded Minecraft server on EC2 spot instances. 
+        Responsible for hosting and administration of a heavily modded Minecraft server on EC2 spot instances.
 
         - Use of spot instances and daily scheduled downtime to reduce costs of server ownership
         - Custom scripting gracefully handles instance state transitions and spot interruptions
@@ -195,7 +196,7 @@ pexperiences:
       time: 2016 - Present
       company: Anet A8 - RepRap - Fusion 360 - OpenSCAD - Ultimaker Cura - Slic3r - gcode - Raspberry Pi - Octoprint - MQTT - Arduino - Marlin
       details: |
-        Mastered the start-to-finish toolchain necessary for modeling and creating 3D printed objects. Continously upgraded and expanded functionality of the system, adding such things as a web-based UI and integration with the home automation system. 
+        Mastered the start-to-finish toolchain necessary for modeling and creating 3D printed objects. Continously upgraded and expanded functionality of the system, adding such things as a web-based UI and integration with the home automation system.
 
 header: >
    <a href="abridged.pdf">Click Here for a 2-Page Downloadable PDF <i class="fas fa-file-pdf fa-2x"></i></a>
